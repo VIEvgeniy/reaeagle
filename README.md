@@ -9,6 +9,6 @@
 ## Установка
 
 ```bash
-git clone https://github.com/ТВОЙ_НИК/redeagle.git
+git clone https://github.com/VIEvgeniy/reaeagle
 cd redeagle
 python3 -m redeagle
